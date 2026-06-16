@@ -1,6 +1,6 @@
 # Blur Canvas — Lightroom Classic Plugin
 
-A Lightroom Classic export filter that centers your photo on a blurred-background canvas at any size you choose. Built for social-media exports where you want the full image visible inside a fixed aspect ratio (Instagram feed, Reels, etc.) without solid letterboxing. Utilizes LR MOGRIFY 2 and you need to have that installed before you can use this.
+A Lightroom Classic export filter that centers your photo on a blurred-background canvas at any size you choose. Built for social-media exports where you want the full image visible inside a fixed aspect ratio (Instagram feed, Reels, etc.) without solid letterboxing. 
 
 The blurred background is generated from the photo itself (or an external image), centered, and composited behind the original at the chosen canvas size.
 
